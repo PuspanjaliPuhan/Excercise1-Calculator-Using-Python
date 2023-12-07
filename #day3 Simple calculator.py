@@ -1,4 +1,5 @@
 #Simple calculator
+# This uses Pre-Defined value to Calculate.
 #First code are just simply used operator's 
 x=int(input('Enter first number='))
 y=int(input('Enter second number='))
