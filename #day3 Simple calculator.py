@@ -1,4 +1,5 @@
-#day3 Simple calculator
+#Simple calculator
+#First code are just simply used operator's 
 x=int(input('Enter first number='))
 y=int(input('Enter second number='))
 a=x+y
@@ -16,7 +17,7 @@ print('The value is',x,'//',y,'is',e)
 print('The value of',x,'%',y,'is',f)
 print('The value of',x,'^',y,'is',g)
 
-# Using function 
+#This one is Using function 
 def add(x,y):
     return x+y
 def substract(x,y):
